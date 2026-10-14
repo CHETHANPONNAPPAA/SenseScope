@@ -1,0 +1,31 @@
+sentence,target,gold,lesk_pred,lesk_ok,lesk_method,mfs_pred,mfs_ok
+She deposited her paycheck at the bank on Friday.,bank,depository_financial_institution.n.01,depository_financial_institution.n.01,True,lesk,bank.n.01,False
+The bank approved our mortgage loan after reviewing our savings.,bank,depository_financial_institution.n.01,depository_financial_institution.n.01,True,lesk,bank.n.01,False
+We had a picnic on the grassy bank of the river and watched the water.,bank,bank.n.01,bank.n.01,True,lesk,bank.n.01,True
+He turned up the bass so the music had a deeper sound.,bass,bass.n.01,bass.n.02,False,lesk,bass.n.01,True
+We caught a large bass in the lake and grilled the fish for dinner.,bass,bass.n.08,sea_bass.n.01,False,lesk,bass.n.01,False
+"The choir needed a strong bass, a male singer with a very low voice.",bass,bass.n.03,bass.n.03,True,lesk,bass.n.01,False
+"A bat flew out of the cave at night, hunting insects with its wings.",bat,bat.n.01,bat.n.01,True,lesk,bat.n.01,True
+The batter swung the bat and hit the baseball over the fence.,bat,bat.n.05,bat.n.02,False,lesk,bat.n.01,False
+The mammal hung upside down like a bat in the dark attic.,bat,bat.n.01,bat.n.01,True,lesk,bat.n.01,True
+The car company opened a new plant where workers assemble engines in a factory.,plant,plant.n.01,plant.n.01,True,lesk,plant.n.01,True
+Water the plant daily so its leaves and roots get enough sunlight and moisture.,plant,plant.n.02,plant.n.02,True,lesk,plant.n.01,False
+The power plant produces electricity for the industrial city.,plant,plant.n.01,plant.n.01,True,lesk,plant.n.01,True
+"The garden blooms in spring after the long, cold winter.",spring,spring.n.01,spring.n.02,False,lesk,spring.n.01,True
+The mattress has a metal spring that bounces back when you press it.,spring,spring.n.02,spring.n.02,True,lesk,spring.n.01,False
+Fresh water flows from the spring in the mountain valley.,spring,spring.n.03,spring.n.03,True,lesk,spring.n.01,False
+"The cat chased a small mouse, a rodent with a long tail, across the kitchen.",mouse,mouse.n.01,mouse.n.01,True,lesk,mouse.n.01,True
+Click the left button of the mouse to select the file on the computer screen.,mouse,mouse.n.04,mouse.n.04,True,lesk,mouse.n.01,False
+The mouse nibbled the cheese and hid in a hole in the wall.,mouse,mouse.n.01,mouse.n.01,True,mfs-fallback,mouse.n.01,True
+The construction crane lifted a heavy steel beam to the top of the building.,crane,crane.n.04,crane.n.04,True,lesk,crane.n.04,True
+"A tall crane waded in the marsh, a long-necked bird looking for fish.",crane,crane.n.05,crane.n.05,True,lesk,crane.n.04,False
+The crane stood on one leg near the pond and spread its wings.,crane,crane.n.05,crane.n.04,False,mfs-fallback,crane.n.04,False
+"The two teams played a tense football match, and the contest ended in a draw.",match,match.n.02,match.n.02,True,lesk,match.n.01,False
+He struck a match to light the candle and the flame flickered.,match,match.n.01,match.n.01,True,lesk,match.n.01,True
+The tennis player won the match in straight sets against her rival.,match,match.n.02,match.n.02,True,lesk,match.n.01,False
+"The bank charges five percent interest on the loan, calculated on the money borrowed.",interest,interest.n.04,interest.n.04,True,lesk,interest.n.01,False
+She has a deep interest in astronomy and reads about the stars with curiosity.,interest,interest.n.01,interest.n.01,True,lesk,interest.n.01,True
+Savings accounts pay interest on the deposit every year.,interest,interest.n.04,interest.n.04,True,lesk,interest.n.01,False
+"Turn on the light, the room is too dark to read.",light,light.n.02,light.n.02,True,lesk,light.n.01,False
+"Light travels as electromagnetic radiation, and the speed of light is constant.",light,light.n.01,light.n.01,True,lesk,light.n.01,True
+The lamp gave a warm light and the bulb illuminated the table.,light,light.n.02,light.n.02,True,lesk,light.n.01,False

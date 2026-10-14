@@ -1,0 +1,47 @@
+sentence,tok_i,token,lemma,pos,predicted_synset,definition,n_senses,score,method,context_words,proper,lexname
+1,1,sat,sit,verb,baby-sit.v.02,work or act as a baby-sitter,10,1.0,lesk,"bank, river, watch, water, flow",False,verb.social
+1,4,bank,bank,noun,bank.n.01,sloping land (especially the slope beside a body of water),10,8.0,lesk,"sit, river, watch, water, flow",False,noun.object
+1,9,watched,watch,verb,watch.v.04,observe with attention,7,1.0,lesk,"sit, bank, river, water, flow",False,verb.perception
+1,11,water,water,noun,body_of_water.n.01,the part of the earth's surface covered with water (such as a river or lake or ocean),6,5.0,lesk,"sit, bank, river, watch, flow",False,noun.object
+1,12,flow,flow,noun,stream.n.02,dominant course (suggestive of running water) of successive events or ideas,7,2.0,lesk,"sit, bank, river, watch, water",False,noun.group
+2,15,went,go,verb,travel.v.01,"change location; move, travel, or proceed, also metaphorically",30,2.0,lesk,"bank, deposit, money, saving, account",False,verb.motion
+2,18,bank,bank,noun,depository_financial_institution.n.01,a financial institution that accepts deposits and channels the money into lending activities,10,5.0,lesk,"go, deposit, money, saving, account",False,noun.group
+2,20,deposit,deposit,verb,deposit.v.02,put into a bank account,3,5.0,lesk,"go, bank, money, saving, account",False,verb.possession
+2,21,money,money,noun,money.n.01,the most common medium of exchange; functions as legal tender,3,2.0,lesk,"go, bank, deposit, saving, account",False,noun.possession
+2,24,savings,saving,noun,economy.n.04,an act of economizing; reduction in cost,3,0.0,mfs-fallback,"go, bank, deposit, money, account",False,noun.act
+2,25,account,account,noun,bill.n.02,an itemized statement of money owed for goods shipped or services rendered,10,2.0,lesk,"go, bank, deposit, money, saving",False,noun.communication
+3,28,bass,bass,noun,bass.n.07,the member with the lowest range of a family of musical instruments,8,3.0,lesk,"guitar, produce, deep, sound, concert",False,noun.artifact
+3,30,produced,produce,verb,produce.v.01,bring forth or yield,7,0.0,mfs-fallback,"bass, guitar, deep, sound, concert",False,verb.creation
+3,32,deep,deep,adjective,bass.s.01,having or denoting a low vocal or instrumental range,15,3.0,lesk,"bass, guitar, produce, sound, concert",False,adj.all
+3,33,sound,sound,noun,sound.n.04,the sudden occurrence of an audible event,8,3.0,lesk,"bass, guitar, produce, deep, concert",False,noun.event
+4,40,caught,catch,verb,catch.v.07,attract and fix,29,1.0,lesk,"fisherman, huge, bass, lake",False,verb.contact
+4,43,bass,bass,noun,sea_bass.n.01,the lean flesh of a saltwater fish of the family Serranidae,8,1.0,lesk,"fisherman, catch, huge, lake",False,noun.food
+4,46,lake,lake,noun,lake.n.01,a body of (usually fresh) water surrounded by land,3,0.0,mfs-fallback,"fisherman, catch, huge, bass",False,noun.object
+5,50,plant,plant,noun,plant.n.01,buildings for carrying on industrial labor,4,1.0,lesk,"factory, employ, hundred, worker",False,noun.artifact
+5,51,employs,employ,verb,hire.v.01,engage or hire for work,2,1.0,lesk,"factory, plant, hundred, worker",False,verb.social
+5,54,workers,worker,noun,proletarian.n.01,a member of the working class (not necessarily employed),4,2.0,lesk,"factory, plant, employ, hundred",False,noun.person
+6,56,Water,water,verb,water.v.01,"supply with water, as with channels or ditches or streams",4,0.0,mfs-fallback,"plant, morning, leaf, stay, green",False,verb.change
+6,58,plant,plant,noun,plant.n.02,(botany) a living organism lacking the power of locomotion,4,2.0,lesk,"water, morning, leaf, stay, green",False,noun.Tops
+6,60,morning,morning,noun,morning.n.01,the time period between dawn and noon,4,0.0,mfs-fallback,"water, plant, leaf, stay, green",False,noun.time
+6,63,leaves,leaf,noun,leaf.n.01,the main organ of photosynthesis and transpiration in higher plants,3,4.0,lesk,"water, plant, morning, stay, green",False,noun.plant
+6,64,stay,stay,verb,stay.v.01,stay the same; remain in a certain state,11,1.0,lesk,"water, plant, morning, leaf, green",False,verb.change
+6,65,green,green,adjective,green.s.01,of the color between blue and yellow in the color spectrum; similar to the color of fresh grass,5,0.0,mfs-fallback,"water, plant, morning, leaf, stay",False,adj.all
+7,69,mouse,mouse,noun,mouse.n.04,a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad,4,3.0,lesk,"click, button, screen",False,noun.artifact
+7,71,click,click,verb,snap.v.04,move or strike with a noise,7,0.0,mfs-fallback,"mouse, button, screen",False,verb.motion
+7,73,button,button,noun,push_button.n.01,an electrical switch operated by pressing,7,1.0,lesk,"mouse, click, screen",False,noun.artifact
+7,76,screen,screen,noun,screen.n.01,a white or silvered surface where pictures can be projected for viewing,9,0.0,mfs-fallback,"mouse, click, button",False,noun.artifact
+8,79,mouse,mouse,noun,mouse.n.01,any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails,4,0.0,mfs-fallback,"run, floor, cat, chase",False,noun.animal
+8,80,ran,run,verb,run.v.06,"move along, of liquids",41,1.0,lesk,"mouse, floor, cat, chase",False,verb.motion
+8,83,floor,floor,noun,floor.n.01,"the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",10,0.0,mfs-fallback,"mouse, run, cat, chase",False,noun.artifact
+8,86,cat,cat,noun,big_cat.n.01,any of several large cats typically able to roar and living in the wild,8,1.0,lesk,"mouse, run, floor, chase",False,noun.animal
+8,87,chased,chase,verb,chase.v.01,go after with the intent to catch,4,1.0,lesk,"mouse, run, floor, cat",False,verb.motion
+9,91,crane,crane,noun,crane.n.04,lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis,2,2.0,lesk,"lift, steel, beam, construction, site",False,noun.artifact
+9,92,lifted,lift,verb,raise.v.02,raise from a lower to a higher position,24,0.0,mfs-fallback,"crane, steel, beam, construction, site",False,verb.motion
+9,94,steel,steel,noun,steel.n.01,an alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range,3,2.0,lesk,"crane, lift, beam, construction, site",False,noun.substance
+9,95,beams,beam,noun,beam.n.02,"long thick piece of wood or metal or concrete, etc., used in construction",7,3.0,lesk,"crane, lift, steel, construction, site",False,noun.artifact
+9,98,construction,construction,noun,structure.n.01,a thing constructed; a complex entity constructed of many parts,7,1.0,lesk,"crane, lift, steel, beam, site",False,noun.artifact
+9,99,site,site,noun,site.n.01,the piece of land on which something is located (or is to be located),3,0.0,mfs-fallback,"crane, lift, steel, beam, construction",False,noun.location
+10,102,white,white,adjective,white.a.01,being of the achromatic color of maximum lightness; having little or no hue owing to reflection of almost all incident light,12,0.0,mfs-fallback,"crane, stand, quietly, marsh, pond",False,adj.all
+10,103,crane,crane,noun,crane.n.05,large long-necked wading bird of marshes and plains in many parts of the world,2,3.0,lesk,"white, stand, quietly, marsh, pond",False,noun.animal
+10,104,stood,stand,verb,stand.v.01,be standing; be upright,12,0.0,mfs-fallback,"white, crane, quietly, marsh, pond",False,verb.contact
+10,105,quietly,quietly,adverb,softly.r.01,with low volume,4,0.0,mfs-fallback,"white, crane, stand, marsh, pond",False,adv.all

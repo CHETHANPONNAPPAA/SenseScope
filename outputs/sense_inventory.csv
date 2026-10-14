@@ -1,0 +1,147 @@
+word,rank,synset,pos,definition,examples,synonyms,hypernyms,hyponyms,meronyms/holonyms,antonyms,lexname,sense_count
+bank,1,bank.n.01,noun,sloping land (especially the slope beside a body of water),they pulled the canoe up on the bank | he sat on the bank of the river and watched the currents,bank,slope.n.01,"riverbank.n.01, waterside.n.01",,,noun.object,25
+bank,2,depository_financial_institution.n.01,noun,a financial institution that accepts deposits and channels the money into lending activities,he cashed a check at the bank | that bank holds the mortgage on my home,"depository financial institution, bank, banking concern, banking company",financial_institution.n.01,"merchant_bank.n.01, commercial_bank.n.01, federal_reserve_bank.n.01, credit_union.n.01, thrift_institution.n.01, state_bank.n.01, member_bank.n.01, agent_bank.n.02",member_holonyms: banking_industry.n.01,,noun.group,20
+bank,3,bank.n.03,noun,a long ridge or pile,a huge bank of earth,bank,ridge.n.01,"sandbank.n.01, bluff.n.01",,,noun.object,2
+bank,4,bank.n.04,noun,an arrangement of similar objects in a row or in tiers,he operated a bank of switches,bank,array.n.01,,,,noun.group,1
+bank,5,bank.n.05,noun,a supply or stock held in reserve for future use (especially in emergencies),,bank,reserve.n.02,"food_bank.n.01, blood_bank.n.01, eye_bank.n.01, soil_bank.n.01",,,noun.possession,0
+bank,6,bank.n.06,noun,the funds held by a gambling house or the dealer in some gambling games,he tried to break the bank at Monte Carlo,bank,funds.n.01,,,,noun.possession,0
+bank,7,bank.n.07,noun,a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force,,"bank, cant, camber",slope.n.01,,,,noun.object,0
+bank,8,savings_bank.n.02,noun,a container (usually with a slot in the top) for keeping money at home,the coin bank was empty,"savings bank, coin bank, money box, bank",container.n.01,piggy_bank.n.01,,,noun.artifact,0
+bank,9,bank.n.09,noun,a building in which the business of banking transacted,the bank is on the corner of Nassau and Witherspoon,"bank, bank building",depository.n.01,,part_meronyms: vault.n.02,,noun.artifact,0
+bank,10,bank.n.10,noun,a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning),the plane went into a steep bank,bank,flight_maneuver.n.01,vertical_bank.n.01,,,noun.act,0
+bank,11,bank.v.01,verb,tip laterally,the pilot had to bank the aircraft,bank,tip.v.01,,,,verb.motion,2
+bank,12,bank.v.02,verb,enclose with a bank,bank roads,bank,enclose.v.03,,,,verb.contact,1
+bank,13,bank.v.03,verb,do business with a bank or keep an account at a bank,Where do you bank in this town?,bank,transact.v.01,,,,verb.possession,0
+bank,14,bank.v.04,verb,act as the banker in a game or in gambling,,bank,act.v.04,,,,verb.possession,0
+bank,15,bank.v.05,verb,be in the banking business,,bank,work.v.02,,,,verb.possession,0
+bank,16,deposit.v.02,verb,put into a bank account,She deposits her paycheck every month,"deposit, bank",give.v.03,redeposit.v.01,,withdraw,verb.possession,0
+bank,17,bank.v.07,verb,cover with ashes so to control the rate of burning,bank a fire,bank,cover.v.01,,,,verb.contact,0
+bank,18,trust.v.01,verb,have confidence or faith in,We can trust in God | Rely on your friends | bank on your good education | I swear by my grandmother's recipes,"trust, swear, rely, bank",believe.v.01,"credit.v.04, count.v.08, lean.v.04",,"mistrust, distrust",verb.cognition,0
+bass,1,bass.n.01,noun,the lowest part of the musical range,,bass,pitch.n.01,,,,noun.attribute,2
+bass,2,bass.n.02,noun,the lowest part in polyphonic music,,"bass, bass part",part.n.11,"ground_bass.n.01, figured_bass.n.01",,,noun.communication,1
+bass,3,bass.n.03,noun,an adult male singer with the lowest voice,,"bass, basso",singer.n.01,,,,noun.person,0
+bass,4,sea_bass.n.01,noun,the lean flesh of a saltwater fish of the family Serranidae,,"sea bass, bass",saltwater_fish.n.01,striped_bass.n.01,part_holonyms: sea_bass.n.02,,noun.food,0
+bass,5,freshwater_bass.n.01,noun,any of various North American freshwater fish with lean flesh (especially of the genus Micropterus),,"freshwater bass, bass",freshwater_fish.n.01,"smallmouth_bass.n.01, largemouth_bass.n.01",part_holonyms: freshwater_bass.n.02,,noun.food,0
+bass,6,bass.n.06,noun,the lowest adult male singing voice,,"bass, bass voice, basso",singing_voice.n.01,basso_profundo.n.01,,,noun.communication,0
+bass,7,bass.n.07,noun,the member with the lowest range of a family of musical instruments,,bass,musical_instrument.n.01,"bass_fiddle.n.01, bombardon.n.02, bass_horn.n.01, bass_guitar.n.01",,,noun.artifact,0
+bass,8,bass.n.08,noun,nontechnical name for any of numerous edible marine and freshwater spiny-finned fishes,,bass,percoid_fish.n.01,freshwater_bass.n.02,,,noun.animal,0
+bass,9,bass.s.01,adjective,having or denoting a low vocal or instrumental range,a deep voice | a bass voice is lower than a baritone voice | a bass clarinet,"bass, deep",,,,,adj.all,0
+bat,1,bat.n.01,noun,nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate,,"bat, chiropteran",placental.n.01,"carnivorous_bat.n.01, fruit_bat.n.01","part_meronyms: wing.n.01, member_holonyms: chiroptera.n.01",,noun.animal,2
+bat,2,bat.n.02,noun,(baseball) a turn trying to get a hit,he was at bat when it happened | he got four hits in four at-bats,"bat, at-bat",turn.n.03,,,,noun.act,1
+bat,3,squash_racket.n.01,noun,a small racket with a long handle used for playing squash,,"squash racket, squash racquet, bat",racket.n.04,,,,noun.artifact,0
+bat,4,cricket_bat.n.01,noun,the club used in playing cricket,a cricket bat has a narrow handle and a broad flat end for hitting,"cricket bat, bat",cricket_equipment.n.01,,part_meronyms: handle.n.01,,noun.artifact,0
+bat,5,bat.n.05,noun,a club used for hitting a ball in various games,,bat,club.n.03,"baseball_bat.n.01, paddle.n.01",,,noun.artifact,0
+bat,6,bat.v.01,verb,"strike with, or as if with a baseball bat",bat the ball,bat,hit.v.03,switch-hit.v.01,,,verb.contact,11
+bat,7,bat.v.02,verb,wink briefly,bat one's eyelids,"bat, flutter",blink.v.01,,,,verb.body,2
+bat,8,bat.v.03,verb,have a turn at bat,"Jones bats first, followed by Martinez",bat,hit.v.03,,,,verb.contact,0
+bat,9,bat.v.04,verb,use a bat,Who's batting?,bat,hit.v.03,,,,verb.contact,0
+bat,10,cream.v.02,verb,beat thoroughly and conclusively in a competition or fight,We licked the other team on Sunday!,"cream, bat, clobber, drub, thrash, lick",beat.v.01,,,,verb.contact,0
+plant,1,plant.n.01,noun,buildings for carrying on industrial labor,they built a large plant to manufacture automobiles,"plant, works, industrial plant",building_complex.n.01,"sewage_disposal_plant.n.01, packinghouse.n.02, recycling_plant.n.01, brewery.n.01, refinery.n.01, saltworks.n.01, mint.n.06, factory.n.01",,,noun.artifact,63
+plant,2,plant.n.02,noun,(botany) a living organism lacking the power of locomotion,,"plant, flora, plant life",organism.n.01,"neophyte.n.01, cryptogam.n.01, poisonous_plant.n.01, acrogen.n.01, microflora.n.01, garden_plant.n.01, rock_plant.n.01, perennial.n.01","part_meronyms: plant_part.n.01,hood.n.02, member_holonyms: plantae.n.01",,noun.Tops,37
+plant,3,plant.n.03,noun,an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience,,plant,actor.n.01,,,,noun.person,0
+plant,4,plant.n.04,noun,something planted secretly for discovery by another,the police used a plant to trick the thieves | he claimed that the evidence against him was a plant,plant,contrivance.n.03,,,,noun.cognition,0
+plant,5,plant.v.01,verb,"put or set (seeds, seedlings, or plants) into the ground",Let's plant flowers in the garden,"plant, set",put.v.01,"puddle.v.03, checkrow.v.01, dibble.v.01, afforest.v.01, root.v.03, bed.v.02, tree.v.02, replant.v.01",,,verb.contact,8
+plant,6,implant.v.01,verb,fix or set securely or deeply,He planted a knee in the back of his opponent | The dentist implanted a tooth in the gum,"implant, engraft, embed, imbed, plant",insert.v.01,"nest.v.02, pot.v.01, bury.v.05",,,verb.contact,2
+plant,7,establish.v.02,verb,set up or lay the groundwork for,establish a new department,"establish, found, plant, constitute, institute",initiate.v.02,"appoint.v.01, fix.v.06",,,verb.creation,1
+plant,8,plant.v.04,verb,place into a river,plant fish,plant,stock.v.06,,,,verb.possession,0
+plant,9,plant.v.05,verb,place something or someone in a certain position in order to secretly observe or deceive,Plant a spy in Moscow | plant bugs in the dissident's apartment,plant,put.v.01,,,,verb.contact,0
+plant,10,plant.v.06,verb,put firmly in the mind,Plant a thought in the students' minds,"plant, implant",communicate.v.01,,,,verb.cognition,0
+spring,1,spring.n.01,noun,the season of growth,the emerging buds were a sure sign of spring | he will hold office until the spring of next year,"spring, springtime",season.n.02,,part_meronyms: vernal_equinox.n.01,,noun.time,25
+spring,2,spring.n.02,noun,a metal elastic device that returns to its shape or position when pushed or pulled or pressed,the spring was broken,spring,elastic_device.n.01,"leaf_spring.n.01, coil_spring.n.01, spiral_spring.n.01, mainspring.n.01, bedspring.n.01",,,noun.artifact,4
+spring,3,spring.n.03,noun,a natural flow of ground water,,"spring, fountain, outflow, outpouring, natural spring",geological_formation.n.01,"geyser.n.01, hot_spring.n.01, fountain_of_youth.n.01",,,noun.object,3
+spring,4,spring.n.04,noun,a point at which water issues forth,,spring,beginning.n.04,,,,noun.location,1
+spring,5,give.n.01,noun,the elasticity of something that can be stretched and returns to its original length,,"give, spring, springiness",elasticity.n.01,,,,noun.attribute,1
+spring,6,leap.n.01,noun,"a light, self-propelled movement upwards or forwards",,"leap, leaping, spring, saltation, bound, bounce",jump.n.06,"pounce.n.01, caper.n.04",,,noun.act,1
+spring,7,jump.v.01,verb,move forward by leaps and bounds,The horse bounded across the meadow | The child leapt across the puddle | Can you jump over the fence?,"jump, leap, bound, spring",move.v.03,"galumph.v.01, vault.v.01, leapfrog.v.01, capriole.v.01, burst.v.04, ski_jump.v.01, hop.v.01, bounce.v.05",,,verb.motion,15
+spring,8,form.v.03,verb,develop into a distinctive entity,our plans began to take shape,"form, take form, take shape, spring",become.v.03,regenerate.v.06,,,verb.stative,5
+spring,9,bounce.v.01,verb,spring back; spring away from an impact,The rubber ball bounced | These particles do not resile but they unite after they collide,"bounce, resile, take a hop, spring, bound, rebound, recoil, reverberate, ricochet",jump.v.01,"skip.v.05, kick_back.v.02, carom.v.01",,,verb.motion,2
+spring,10,spring.v.04,verb,develop suddenly,The tire sprang a leak,spring,grow.v.08,,,,verb.body,1
+spring,11,spring.v.05,verb,produce or disclose suddenly or unexpectedly,He sprang these news on me just as I was leaving,spring,unwrap.v.02,,,,verb.communication,0
+mouse,1,mouse.n.01,noun,any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails,,mouse,rodent.n.01,"harvest_mouse.n.02, field_mouse.n.02, nude_mouse.n.01, wood_mouse.n.01, house_mouse.n.01",,,noun.animal,14
+mouse,2,shiner.n.01,noun,a swollen bruise caused by a blow to the eye,,"shiner, black eye, mouse",bruise.n.01,,,,noun.state,0
+mouse,3,mouse.n.03,noun,person who is quiet or timid,,mouse,person.n.01,,,,noun.person,0
+mouse,4,mouse.n.04,noun,a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad,a mouse takes much more room than a trackball,"mouse, computer mouse",electronic_device.n.01,,part_meronyms: mouse_button.n.01,,noun.artifact,0
+mouse,5,sneak.v.01,verb,to go stealthily or furtively,..stead of sneaking around spying on the neighbor's house,"sneak, mouse, creep, pussyfoot",walk.v.01,,,,verb.motion,0
+mouse,6,mouse.v.02,verb,manipulate the mouse of a computer,,mouse,manipulate.v.02,,,,verb.contact,0
+crane,1,crane.n.01,noun,United States writer (1871-1900),,"Crane, Stephen Crane",writer.n.01,,,,noun.person,0
+crane,2,crane.n.02,noun,United States poet (1899-1932),,"Crane, Hart Crane, Harold Hart Crane",poet.n.01,,,,noun.person,0
+crane,3,grus.n.01,noun,a small constellation in the southern hemisphere near Phoenix,,"Grus, Crane",constellation.n.02,,,,noun.object,0
+crane,4,crane.n.04,noun,lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis,,crane,lifting_device.n.01,"davit.n.01, derrick.n.02, transporter.n.02",,,noun.artifact,0
+crane,5,crane.n.05,noun,large long-necked wading bird of marshes and plains in many parts of the world,,crane,wading_bird.n.01,whooping_crane.n.01,member_holonyms: gruidae.n.01,,noun.animal,0
+crane,6,crane.v.01,verb,stretch (the neck) so as to see better,The women craned their necks to see the President drive by,"crane, stretch out",stretch.v.02,,,,verb.body,2
+match,1,match.n.01,noun,lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction,he always carries matches to light his pipe | as long you've a lucifer to light your fag,"match, lucifer, friction match",lighter.n.02,"slow_match.n.01, safety_match.n.01, kitchen_match.n.01, fusee.n.03",part_meronyms: matchstick.n.01,,noun.artifact,4
+match,2,match.n.02,noun,a formal contest in which two or more persons or teams compete,,match,contest.n.01,"tennis_match.n.01, test_match.n.01, cockfight.n.01, boxing_match.n.01, chess_match.n.01, semifinal.n.01, field_event.n.01, cricket_match.n.01",,,noun.event,1
+match,3,match.n.03,noun,a burning piece of wood or cardboard,if you drop a match in there the whole place will explode,match,lighter.n.02,,,,noun.artifact,1
+match,4,match.n.04,noun,an exact duplicate,when a match is found an entry is made in the notebook,"match, mate",duplicate.n.02,,,,noun.artifact,1
+match,5,match.n.05,noun,the score needed to win a match,,match,score.n.03,,,,noun.quantity,0
+match,6,catch.n.03,noun,a person regarded as a good matrimonial prospect,,"catch, match",adult.n.01,,,,noun.person,0
+match,7,peer.n.01,noun,a person who is of equal standing with another in a group,,"peer, equal, match, compeer",person.n.01,"contemporary.n.01, associate.n.01, townsman.n.01, stand-in.n.01, gangsta.n.01, successor.n.01",member_holonyms: peer_group.n.01,,noun.person,0
+match,8,couple.n.02,noun,a pair of people who live together,a married couple from Chicago,"couple, mates, match",family.n.02,"power_couple.n.01, dink.n.01",,,noun.group,0
+match,9,match.n.09,noun,something that resembles or harmonizes with,that tie makes a good match with your jacket,match,counterpart.n.01,,,,noun.cognition,0
+match,10,match.v.01,verb,"be compatible, similar or consistent; coincide in their characteristics",The two stories don't agree in many details | The handwriting checks with the signature on the check | The suspect's fingerprints don't match those on the gun,"match, fit, correspond, check, jibe, gibe, tally, agree",equal.v.01,"parallel.v.01, pattern.v.02, look.v.09, rhyme.v.02, meet.v.05, homologize.v.01, corroborate.v.03, twin.v.01",,disagree,verb.stative,16
+match,11,match.v.02,verb,provide funds complementary to,The company matched the employees' contributions,match,supply.v.01,,,,verb.possession,12
+match,12,match.v.03,verb,"bring two objects, ideas, or people together","This fact is coupled to the other one | Matchmaker, can you match my daughter with a nice young man? | The student was paired with a partner for collaboration on the project","match, mate, couple, pair, twin",join.v.02,"mismatch.v.01, mismate.v.01",,,verb.contact,6
+match,13,equal.v.02,verb,be equal to in quality or ability,Nothing can rival cotton for durability | Your performance doesn't even touch that of your colleagues | Her persistence and ambition only matches that of her parents,"equal, touch, rival, match",compete.v.01,,,,verb.stative,5
+match,14,match.v.05,verb,make correspond or harmonize,Match my sweater,"match, fit",adjust.v.01,balance.v.01,,,verb.change,3
+match,15,meet.v.06,verb,satisfy or fulfill,meet a need | this job doesn't match my dreams,"meet, match, cope with",cope.v.01,,,,verb.social,0
+match,16,match.v.07,verb,give or join in marriage,,match,join.v.02,,,,verb.contact,0
+match,17,pit.v.01,verb,set into opposition or rivalry,let them match their best athletes against ours | pit a chess player against the Russian champion | He plays his two children off against each other,"pit, oppose, match, play off",confront.v.01,,,,verb.competition,0
+match,18,match.v.09,verb,be equal or harmonize,The two pieces match,match,adjust.v.03,,,,verb.change,0
+match,19,equal.v.03,verb,"make equal, uniform, corresponding, or matching",let's equalize the duties among all employees in this office | The company matched the discount policy of its competitors,"equal, match, equalize, equalise, equate",change.v.01,"tie.v.02, homologize.v.02, homogenize.v.01",,,verb.change,0
+interest,1,interest.n.01,noun,a sense of concern with and curiosity about someone or something,an interest in music,"interest, involvement",curiosity.n.01,"enthusiasm.n.03, concern.n.01",,,noun.cognition,62
+interest,2,sake.n.01,noun,a reason for wanting something done,for your sake | died for the sake of his country | in the interest of safety | in the common interest,"sake, interest",benefit.n.02,behalf.n.02,,,noun.attribute,32
+interest,3,interest.n.03,noun,the power of attracting or holding one's attention (because it is unusual or exciting etc.),they said nothing of great interest | primary colors can add interest to a room,"interest, interestingness",power.n.01,"color.n.02, newsworthiness.n.01, charisma.n.01, topicality.n.01, shrillness.n.01",,uninterestingness,noun.attribute,21
+interest,4,interest.n.04,noun,a fixed charge for borrowing money; usually a percentage of the amount borrowed,how much interest do you pay on your mortgage?,interest,fixed_charge.n.01,"simple_interest.n.01, compound_interest.n.01",,,noun.possession,14
+interest,5,interest.n.05,noun,(law) a right or legal share of something; a financial involvement with something,they have interests all over the world | a stake in the company's future,"interest, stake",share.n.01,"reversion.n.01, equity.n.02, insurable_interest.n.01, grubstake.n.01, terminable_interest.n.01, security_interest.n.01, right.n.08, undivided_interest.n.01",,,noun.possession,7
+interest,6,interest.n.06,noun,(usually plural) a social group whose members control some field of activity and who have common aims,the iron interests stepped up production,"interest, interest group",social_group.n.01,"vested_interest.n.02, special_interest.n.01",,,noun.group,5
+interest,7,pastime.n.01,noun,a diversion that occupies one's time and thoughts (usually pleasantly),sailing is her favorite pastime | his main pastime is gambling | he counts reading among his interests | they criticized the boy for his limited pursuits,"pastime, interest, pursuit",diversion.n.01,avocation.n.01,,,noun.act,3
+interest,8,interest.v.01,verb,excite the curiosity of; engage the interest of,,interest,arouse.v.01,"fascinate.v.02, absorb.v.09",,bore,verb.emotion,5
+interest,9,concern.v.02,verb,be on the mind of,I worry about the second Germanic consonant shift,"concern, interest, occupy, worry",,,,,verb.stative,2
+interest,10,matter_to.v.01,verb,be of importance or consequence,This matters to me!,"matter to, interest",refer.v.02,intrigue.v.01,,,verb.stative,1
+light,1,light.n.01,noun,(physics) electromagnetic radiation that can produce a visual sensation,the light was filtered through a soft glass window,"light, visible light, visible radiation",actinic_radiation.n.01,"daylight.n.02, torchlight.n.01, lamplight.n.01, corona.n.04, radiance.n.01, fluorescence.n.01, half-light.n.01, sunlight.n.01",part_holonyms: electromagnetic_spectrum.n.01,,noun.phenomenon,46
+light,2,light.n.02,noun,any device serving as a source of illumination,he stopped the car and turned off the lights,"light, light source",source_of_illumination.n.01,"headlight.n.01, jacklight.n.01, sidelight.n.01, strip_lighting.n.01, navigation_light.n.01, searchlight.n.01, sconce.n.03, room_light.n.01",,,noun.artifact,23
+light,3,light.n.03,noun,a particular perspective or aspect of a situation,"although he saw it in a different light, he still did not understand",light,position.n.03,,,,noun.cognition,13
+light,4,luminosity.n.01,noun,the quality of being luminous; emitting or reflecting light,its luminosity is measured relative to that of our sun,"luminosity, brightness, brightness level, luminance, luminousness, light",physical_property.n.01,"illuminance.n.01, luminescence.n.02, incandescence.n.02",,,noun.attribute,10
+light,5,light.n.05,noun,an illuminated area,he stepped into the light,light,scene.n.01,,,,noun.location,7
+light,6,light.n.06,noun,a condition of spiritual awareness; divine illumination,follow God's light,"light, illumination",condition.n.01,,,,noun.state,4
+light,7,light.n.07,noun,the visual effect of illumination on objects or scenes as created in pictures,he could paint the lightest light and the darkest dark,"light, lightness",visual_property.n.01,"aura.n.02, sunniness.n.01, brightness.n.01, highlight.n.02",,,noun.attribute,4
+light,8,light.n.08,noun,a person regarded very fondly,the light of my life,light,friend.n.01,,,,noun.person,3
+light,9,light.n.09,noun,having abundant light or illumination,they played as long as it was light | as long as the lighting was good,"light, lighting",illumination.n.02,,,dark,noun.state,2
+light,10,light.n.10,noun,mental understanding as an enlightening experience,he finally saw the light | can you shed light on this problem?,light,insight.n.03,,,,noun.cognition,2
+light,11,sparkle.n.01,noun,merriment expressed by a brightness or gleam or animation of countenance,he had a sparkle in his eye | there's a perpetual twinkle in his eyes,"sparkle, twinkle, spark, light","expression.n.01, vitality.n.01",,,,noun.attribute,2
+light,12,light.n.12,noun,public awareness,it brought the scandal to light,light,public_knowledge.n.01,,,,noun.cognition,1
+light,13,inner_light.n.01,noun,a divine presence believed by Quakers to enlighten and guide the soul,,"Inner Light, Light, Light Within, Christ Within",ethical_motive.n.01,,,,noun.motive,0
+light,14,light.n.14,noun,a visual warning signal,they saw the light of the beacon | there was a light at every corner,light,visual_signal.n.01,traffic_light.n.01,,,noun.communication,0
+light,15,lighter.n.02,noun,a device for lighting or igniting fuel or charges or fires,do you have a light?,"lighter, light, igniter, ignitor",device.n.01,"match.n.01, fuse.n.02, match.n.03, cigar_lighter.n.01",,,noun.artifact,0
+light,16,light.v.01,verb,make lighter or brighter,This lamp lightens the room a bit,"light, illume, illumine, light up, illuminate",lighten.v.05,"spotlight.v.02, floodlight.v.01",,,verb.change,12
+light,17,light_up.v.05,verb,begin to smoke,"After the meal, some of the diners lit up","light up, fire up, light",ignite.v.01,,,,verb.consumption,10
+light,18,alight.v.01,verb,"to come to rest, settle",Misfortune lighted upon him,"alight, light, perch",land.v.01,,,,verb.motion,3
+light,19,ignite.v.01,verb,cause to start burning; subject to fire or great heat,Great heat can ignite almost any dry matter | Light a cigarette,"ignite, light",burn.v.05,"light_up.v.05, reignite.v.01, kindle.v.02, flare_up.v.01, light_up.v.04",,extinguish,verb.weather,2
+light,20,fall.v.20,verb,fall to somebody by assignment or lot,The task fell to me | It fell to me to notify the parents of the victims,"fall, light",fall.v.21,,,,verb.possession,0
+light,21,unhorse.v.01,verb,alight from (a horse),,"unhorse, dismount, light, get off, get down",descend.v.01,,,,verb.motion,0
+light,22,light.a.01,adjective,of comparatively little physical weight or density,a light load | magnesium is a light metal--having a specific gravity of 1.74 at 20 degrees C,light,,,,heavy,adj.all,14
+light,23,light.a.02,adjective,(used of color) having a relatively small amount of coloring agent,light blue | light colors such as pastels | a light-colored powder,"light, light-colored",,,,dark,adj.all,9
+light,24,light.a.03,adjective,of the military or industry; using (or being) relatively small or light arms or equipment,light infantry | light cavalry | light industry | light weapons,light,,,,heavy,adj.all,4
+light,25,light.a.04,adjective,not great in degree or quantity or number,a light sentence | a light accent | casualties were light | light snow was falling | light misty rain | light smoke from the chimney,light,,,,heavy,adj.all,3
+light,26,light.a.05,adjective,psychologically light; especially free from sadness or troubles,a light heart,light,,,,heavy,adj.all,3
+light,27,light.a.06,adjective,characterized by or emitting light,a room that is light when the shutters are open | the inside of the house was airy and light,light,,,,dark,adj.all,3
+light,28,unaccented.s.01,adjective,(used of vowels or syllables) pronounced with little or no stress,a syllable that ends in a short vowel is a light syllable | a weak stress on the second syllable,"unaccented, light, weak",,,,,adj.all,2
+light,29,light.s.02,adjective,easily assimilated in the alimentary canal; not rich or heavily seasoned,a light diet,light,,,,,adj.all,2
+light,30,light.s.03,adjective,(used of soil) loose and large-grained in consistency,light soil,light,,,,,adj.all,2
+light,31,clean.s.02,adjective,(of sound or color) free from anything that dulls or dims,efforts to obtain a clean bass in orchestral recordings | clear laughter like a waterfall | clear reds and blues | a light lilting voice like a silver bell,"clean, clear, light, unclouded",,,,,adj.all,1
+light,32,light.s.05,adjective,moving easily and quickly; nimble,the dancer was light and graceful | a lightsome buoyant step | walked with a light tripping step,"light, lightsome, tripping",,,,,adj.all,1
+light,33,light.s.06,adjective,demanding little effort; not burdensome,light housework | light exercise,light,,,,,adj.all,1
+light,34,light.a.13,adjective,of little intensity or power or force,the light touch of her fingers | a light breeze,light,,,,heavy,adj.all,0
+light,35,light.a.14,adjective,"(physics, chemistry) not having atomic weight greater than average",light water is ordinary water,light,,,,heavy,adj.all,0
+light,36,faint.s.04,adjective,weak and likely to lose consciousness,suddenly felt faint from the pain | was sick and faint from hunger | felt light in the head | a swooning fit | light-headed with wine | light-headed from lack of sleep,"faint, light, swooning, light-headed, lightheaded",,,,,adj.all,0
+light,37,light.s.08,adjective,very thin and insubstantial,thin paper | light summer dresses,light,,,,,adj.all,0
+light,38,abstemious.s.01,adjective,marked by temperance in indulgence,abstemious with the use of adverbs | a light eater | a light smoker | ate a light supper,"abstemious, light",,,,,adj.all,0
+light,39,light.s.10,adjective,less than the correct or legal or full amount often deliberately so,a light pound | a scant cup of sugar | regularly gives short weight,"light, scant, short",,,,,adj.all,0
+light,40,light.s.11,adjective,having little importance,losing his job was no light matter,light,,,,,adj.all,0
+light,41,light.s.12,adjective,intended primarily as entertainment; not serious or profound,light verse | a light comedy,light,,,,,adj.all,0
+light,42,idle.s.03,adjective,silly or trivial,idle pleasure | light banter | light idle chatter,"idle, light",,,,,adj.all,0
+light,43,light.s.14,adjective,designed for ease of movement or to carry little weight,light aircraft | a light truck,light,,,,,adj.all,0
+light,44,light.s.15,adjective,having relatively few calories,diet cola | light (or lite) beer | lite (or light) mayonnaise | a low-cal diet,"light, lite, low-cal, calorie-free",,,,,adj.all,0
+light,45,light.s.16,adjective,(of sleep) easily disturbed,in a light doze | a light sleeper | a restless wakeful night,"light, wakeful",,,,,adj.all,0
+light,46,easy.s.08,adjective,casual and unrestrained in sexual behavior,her easy virtue | he was told to avoid loose (or light) women | wanton behavior,"easy, light, loose, promiscuous, sluttish, wanton",,,,,adj.all,0
+light,47,lightly.r.02,adverb,with few burdens,experienced travellers travel light,"lightly, light",,,,,adv.all,0

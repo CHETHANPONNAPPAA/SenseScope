@@ -1,0 +1,48 @@
+{
+  "n_sentences": 30,
+  "lesk_accuracy": 0.833,
+  "mfs_accuracy": 0.433,
+  "lesk_fallback_to_mfs": 2,
+  "by_word": {
+    "bank": {
+      "lesk_ok": 1.0,
+      "mfs_ok": 0.33
+    },
+    "bass": {
+      "lesk_ok": 0.33,
+      "mfs_ok": 0.33
+    },
+    "bat": {
+      "lesk_ok": 0.67,
+      "mfs_ok": 0.67
+    },
+    "crane": {
+      "lesk_ok": 0.67,
+      "mfs_ok": 0.33
+    },
+    "interest": {
+      "lesk_ok": 1.0,
+      "mfs_ok": 0.33
+    },
+    "light": {
+      "lesk_ok": 1.0,
+      "mfs_ok": 0.33
+    },
+    "match": {
+      "lesk_ok": 1.0,
+      "mfs_ok": 0.33
+    },
+    "mouse": {
+      "lesk_ok": 1.0,
+      "mfs_ok": 0.67
+    },
+    "plant": {
+      "lesk_ok": 1.0,
+      "mfs_ok": 0.67
+    },
+    "spring": {
+      "lesk_ok": 0.67,
+      "mfs_ok": 0.33
+    }
+  }
+}
